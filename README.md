@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Hexus (easy programming language)**
 
-- 🌱 I'm currently learning **C**
+- 🌱 I'm currently learning **Assembly**
 
 - 📫 How to reach me **kacper5555544444@gmail.com**
 
