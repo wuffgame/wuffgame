@@ -2,11 +2,11 @@
 
 ### Creator of the Hexus-lang. Low-level is my middle name c:
 
-- 🔭 I'm currently working on **Hexus (easy programming language)**
+- 🔭 I'm currently working on **new Hexus (easy programming language)**
 
-- 🌱 I'm currently learning **Assembly**
+- 🌱 I'm currently learning **C, Cybersecurity and Systems Architecture**
 
-- 📫 How to reach me **kacper5555544444@gmail.com**
+- 📫 How to reach me **kacper5555544444@gmail.com** or **wuff@wuffdev.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
